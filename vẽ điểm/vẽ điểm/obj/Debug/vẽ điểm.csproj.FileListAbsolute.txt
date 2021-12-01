@@ -1,0 +1,10 @@
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\bin\Debug\vẽ điểm.exe.config
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\bin\Debug\vẽ điểm.exe
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\bin\Debug\vẽ điểm.pdb
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ điểm.csprojAssemblyReference.cache
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ_điểm.Form1.resources
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ_điểm.Properties.Resources.resources
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ điểm.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ điểm.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ điểm.exe
+E:\C#\thầy ngọc\vẽ điểm\vẽ điểm\obj\Debug\vẽ điểm.pdb
